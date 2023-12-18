@@ -1,0 +1,32 @@
+.operator-functions{
+display: flex;
+flex-direction: column;
+
+}
+.numbers{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.calc-display{
+display: flex;
+flex-direction: row;
+width: 100px;
+height: 100px;
+}
+
+.display{
+   font-size: 38px;
+    height: 50px;
+    flex: auto;
+
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
